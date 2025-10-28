@@ -6,19 +6,26 @@ I'm **Lucas Daniel** (aka `danielmariae`), a passionate developer exploring the 
 
 ## 🛠️ Tech Stack
 
-**Backend & Databases:**
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" width="50" height="50" alt="Quarkus" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="50" height="50" alt="Oracle" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="50" height="50" alt="SQL Developer" />
-</div>
-
-**Frontend:**
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="50" height="50" alt="Angular" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" width="50" height="50" alt="Ionic"/>        
+  <div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
+    <div>
+      <h3>🔧 Backend & Databases</h3>
+      <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" alt="Java" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" width="50" height="50" alt="Quarkus" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="50" height="50" alt="Oracle" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="50" height="50" alt="SQL Developer" />
+      </div>
+    </div>
+    <div>
+      <h3>🎨 Frontend & Mobile</h3>
+      <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="50" height="50" alt="Angular" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" width="50" height="50" alt="Ionic"/>        
+      </div>
+    </div>
+  </div>
 </div>
 
 ---
@@ -47,7 +54,7 @@ I'm **Lucas Daniel** (aka `danielmariae`), a passionate developer exploring the 
 
 ## 📫 Let's Connect!
 
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/danielmariae" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -63,7 +70,6 @@ I'm **Lucas Daniel** (aka `danielmariae`), a passionate developer exploring the 
 </div>
 
 ---
-
 > *"All are born as originals, but many die as photocopies." - Carlo Acutis*
 
 ---
